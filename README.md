@@ -1,1 +1,1 @@
-This is about odin recipes
+This is about odin recipess
